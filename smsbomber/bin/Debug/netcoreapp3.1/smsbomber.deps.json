@@ -1,0 +1,87 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "smsbomber/1.0.0": {
+        "dependencies": {
+          "HttpToSocks5Proxy": "1.4.0",
+          "Leaf.xNet": "5.2.5",
+          "Newtonsoft.Json": "12.0.3",
+          "xNet": "3.3.3.0"
+        },
+        "runtime": {
+          "smsbomber.dll": {}
+        }
+      },
+      "HttpToSocks5Proxy/1.4.0": {
+        "runtime": {
+          "lib/netstandard2.0/MihaZupan.HttpToSocks5Proxy.dll": {
+            "assemblyVersion": "1.4.0.0",
+            "fileVersion": "1.4.0.0"
+          }
+        }
+      },
+      "Leaf.xNet/5.2.5": {
+        "runtime": {
+          "lib/netstandard2.0/Leaf.xNet.dll": {
+            "assemblyVersion": "5.2.5.0",
+            "fileVersion": "5.2.5.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "xNet/3.3.3.0": {
+        "runtime": {
+          "xNet.dll": {
+            "assemblyVersion": "3.3.3.0",
+            "fileVersion": "3.3.3.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "smsbomber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HttpToSocks5Proxy/1.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yh4EBEYNBFcgVWF2BIITcLjCBzk077lvbWlRO03NuOpwJylmLNQAiqJj8Nm7waYxUgpDIz/06SkJ4iPVUEQEhA==",
+      "path": "httptosocks5proxy/1.4.0",
+      "hashPath": "httptosocks5proxy.1.4.0.nupkg.sha512"
+    },
+    "Leaf.xNet/5.2.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rtETAWtFyNX6JgQ5qooi/+zdOrnPtHE/PQyE9ezeKOpQesB8Sy9/RdeRyk3KnykBik6VMRwvRJWxZUT7ahwSgA==",
+      "path": "leaf.xnet/5.2.5",
+      "hashPath": "leaf.xnet.5.2.5.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "xNet/3.3.3.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

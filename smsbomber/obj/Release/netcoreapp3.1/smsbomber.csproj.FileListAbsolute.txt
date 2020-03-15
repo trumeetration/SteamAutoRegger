@@ -1,0 +1,14 @@
+E:\Softs\bomberShaprs\smsbomber\smsbomber\bin\Release\netcoreapp3.1\MihaZupan.HttpToSocks5Proxy.dll
+E:\Softs\bomberShaprs\smsbomber\smsbomber\bin\Release\netcoreapp3.1\xNet.dll
+E:\Softs\bomberShaprs\smsbomber\smsbomber\obj\Release\netcoreapp3.1\smsbomber.csprojAssemblyReference.cache
+E:\Softs\bomberShaprs\smsbomber\smsbomber\obj\Release\netcoreapp3.1\smsbomber.AssemblyInfoInputs.cache
+E:\Softs\bomberShaprs\smsbomber\smsbomber\obj\Release\netcoreapp3.1\smsbomber.AssemblyInfo.cs
+E:\Softs\bomberShaprs\smsbomber\smsbomber\obj\Release\netcoreapp3.1\smsbomber.csproj.CopyComplete
+E:\Softs\bomberShaprs\smsbomber\smsbomber\bin\Release\netcoreapp3.1\SteamRegger.exe
+E:\Softs\bomberShaprs\smsbomber\smsbomber\bin\Release\netcoreapp3.1\SteamRegger.deps.json
+E:\Softs\bomberShaprs\smsbomber\smsbomber\bin\Release\netcoreapp3.1\SteamRegger.runtimeconfig.json
+E:\Softs\bomberShaprs\smsbomber\smsbomber\bin\Release\netcoreapp3.1\SteamRegger.runtimeconfig.dev.json
+E:\Softs\bomberShaprs\smsbomber\smsbomber\bin\Release\netcoreapp3.1\SteamRegger.dll
+E:\Softs\bomberShaprs\smsbomber\smsbomber\bin\Release\netcoreapp3.1\SteamRegger.pdb
+E:\Softs\bomberShaprs\smsbomber\smsbomber\obj\Release\netcoreapp3.1\SteamRegger.dll
+E:\Softs\bomberShaprs\smsbomber\smsbomber\obj\Release\netcoreapp3.1\SteamRegger.pdb

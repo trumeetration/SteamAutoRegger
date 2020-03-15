@@ -1,0 +1,15 @@
+E:\Softs\bomberShaprs\smsbomber\smsbomber\bin\Debug\netcoreapp3.1\smsbomber.exe
+E:\Softs\bomberShaprs\smsbomber\smsbomber\bin\Debug\netcoreapp3.1\smsbomber.deps.json
+E:\Softs\bomberShaprs\smsbomber\smsbomber\bin\Debug\netcoreapp3.1\smsbomber.runtimeconfig.json
+E:\Softs\bomberShaprs\smsbomber\smsbomber\bin\Debug\netcoreapp3.1\smsbomber.runtimeconfig.dev.json
+E:\Softs\bomberShaprs\smsbomber\smsbomber\bin\Debug\netcoreapp3.1\smsbomber.dll
+E:\Softs\bomberShaprs\smsbomber\smsbomber\bin\Debug\netcoreapp3.1\smsbomber.pdb
+E:\Softs\bomberShaprs\smsbomber\smsbomber\obj\Debug\netcoreapp3.1\smsbomber.AssemblyInfoInputs.cache
+E:\Softs\bomberShaprs\smsbomber\smsbomber\obj\Debug\netcoreapp3.1\smsbomber.AssemblyInfo.cs
+E:\Softs\bomberShaprs\smsbomber\smsbomber\obj\Debug\netcoreapp3.1\smsbomber.dll
+E:\Softs\bomberShaprs\smsbomber\smsbomber\obj\Debug\netcoreapp3.1\smsbomber.pdb
+E:\Softs\bomberShaprs\smsbomber\smsbomber\obj\Debug\netcoreapp3.1\smsbomber.csproj.CopyComplete
+E:\Softs\bomberShaprs\smsbomber\smsbomber\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Softs\bomberShaprs\smsbomber\smsbomber\bin\Debug\netcoreapp3.1\Leaf.xNet.dll
+E:\Softs\bomberShaprs\smsbomber\smsbomber\obj\Debug\netcoreapp3.1\smsbomber.csprojAssemblyReference.cache
+E:\Softs\bomberShaprs\smsbomber\smsbomber\bin\Debug\netcoreapp3.1\MihaZupan.HttpToSocks5Proxy.dll

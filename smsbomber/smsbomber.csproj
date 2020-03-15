@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>SteamRegger</AssemblyName>
+    <RootNamespace>SteamRegger</RootNamespace>
+    <PackageIcon>uQCzdPyOeT0.jpg</PackageIcon>
+    <PackageIconUrl />
+    <ApplicationIcon>uQCzdPyOeT0.ico</ApplicationIcon>
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HttpToSocks5Proxy" Version="1.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="xNet">
+      <HintPath>bin\Debug\netcoreapp3.1\xNet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="D:\Desktop_new(11.12)\разные пикчи и txt данные\uQCzdPyOeT0.jpg">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
